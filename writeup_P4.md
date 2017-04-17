@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[undist]: ./examples/undist.png "Undistorted"
+[undist]: ./output_images/undist.png "Undistorted"
 [straight_lines2]: ./test_images/straight_lines2.jpg "Road Transformed(straight_line)"
 [test5]: ./test_images/test5.jpg "Road Transformed(curve)"
 
