@@ -87,7 +87,7 @@ I drew the fit lines and the lane onto the warped image, and displayed them. Ple
 Please check the code output, there is a output image with detected lane of test_images/test5.jpg.
 
 
-###Finally, i put all the code together into classed defined in P4.ipynb, and produce a output.mp4.
+###Finally, i put all the code together into classes defined in P4.ipynb, and produce a output.mp4.
 
 ---
 
